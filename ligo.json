@@ -1,0 +1,7 @@
+{
+  "name": "testing-package-management",
+  "dependencies": {
+    "checker": "0.1.0",
+    "@ligo/fa": "1.0.6"
+  }
+}
